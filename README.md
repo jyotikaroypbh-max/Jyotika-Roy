@@ -6,12 +6,11 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on **Frontend Development projects and website clones**
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and React**
-- 🤝 I’m looking to collaborate on **Frontend projects, Web Development and Open Source projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, UI Design and Frontend Development**
+- 🌱 I’m currently learning **Java and DSA,Python,SQL,DBMS,Data Science and Analysis**
+- 💬 Ask me about **Java ,Python,SQL,**
 - 📫 How to reach me: **GitHub / LinkedIn**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **I love turning ideas into websites and learning something new every day!**
+- ⚡ My Interests: **Software devlopment**
 
 ### 🛠️ Languages & Tools
 
