@@ -11,20 +11,12 @@
 - ⚡ My Interests: **Software devlopment**
 
 ### 🛠️ Languages & Tools
+Java
+Python
+Sql
 
 <p align="left">
 
 </p>
 
-### 🚀 My Current Focus
 
-
-✨ If you want a more attractive GitHub profile
-
-You can use this heading at the top:
-
-React
-      ↓
-Building Real-World Projects
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
