@@ -1,11 +1,9 @@
 # Jyotika-Roy
 # Hi 👋, I'm Jyotika Roy
 
-💻 **Frontend Developer | Computer Science Student**
+💻 ** Computer Science Student**
 
 ### 👩‍💻 About Me
-
-- 🔭 I’m currently working on **Frontend Development projects and website clones**
 - 🌱 I’m currently learning **Java and DSA,Python,SQL,DBMS,Data Science and Analysis**
 - 💬 Ask me about **Java ,Python,SQL,**
 - 📫 How to reach me: **GitHub / LinkedIn**
@@ -15,7 +13,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+
 </p>
 
 ### 🚀 My Current Focus
